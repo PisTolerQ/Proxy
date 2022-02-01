@@ -1,1 +1,1 @@
-# Proxy
+Proxy ihtiyacınızı gidermek için yapıldı.
