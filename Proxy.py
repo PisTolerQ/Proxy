@@ -1,8 +1,10 @@
 from bs4 import BeautifulSoup
 import requests
+import os
+os.system('pip3 install pyfiglet')
 BRed="\033[1;31m" # Red
 import os
-os.system ( 'pyfiglet  By_PisTolerQ')
+os.system('pyfiglet  By_PisTolerQ')
 def proxyÇekme():
 
     proxies = []
